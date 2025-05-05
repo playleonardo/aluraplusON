@@ -179,6 +179,7 @@ body {
 
   .dispositivos__lista{
     display: block;
+    width: auto;
   }
   
   .rodape__lista{
